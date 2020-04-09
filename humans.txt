@@ -14,3 +14,4 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	Some more text additions such as git
