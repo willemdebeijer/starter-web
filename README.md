@@ -20,4 +20,4 @@ Please fork this repo and then issue pull requests for review.
 
 ### Copyright
 
-2020 copyright
+2020 copyright. All rights reserved
